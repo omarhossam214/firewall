@@ -1,5 +1,5 @@
 # Test-IntuneFirewallRules
-
+all rights for the creator Mark Stanfill https://github.com/markstan
 Test-IntuneFirewallRules is a utility to detect errors in Intune firewall rules definitions.  Common errors such as misspelled variable names, typographical errors, and unsupported configurations may lead to the rules not being imported during Intune device sync. This utility queries Intune Graph API to test creating each rule locally so that administrators can easily identify problematic rules.
 
 ## Prerequisites
